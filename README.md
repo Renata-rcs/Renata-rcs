@@ -1,6 +1,6 @@
 # Bem-vindo(a) à Minha Página do GitHub!
 
-Olá! Sou [Renata Carvalho](https://github.com/Renata-rcs), estudante de Desenvolvimento de Software e apaixonado(a) por programação.
+Olá! Sou [Renata Carvalho](https://github.com/Renata-rcs), estudante e apaixonado(a) por programação.
 
 ## Sobre Mim
 
@@ -14,7 +14,7 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando:
 - HTML5
 - CSS3
 - JavaScript
-- ...
+
 
 ## Projetos Destacados
 
