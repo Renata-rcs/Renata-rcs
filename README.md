@@ -15,15 +15,6 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando:
 - CSS3
 - JavaScript
 
-
-## Projetos Destacados
-
-Aqui estão alguns dos meus projetos:
-
-- [Projeto 1](link-para-o-projeto1): Breve descrição do projeto.
-- [Projeto 2](link-para-o-projeto2): Breve descrição do projeto.
-- [Projeto 3](link-para-o-projeto3): Breve descrição do projeto.
-
 ## Contato
 
 - 📧 E-mail: renataa.rcs@gmail.com
