@@ -1,5 +1,4 @@
-# Bem-vindo(a) à Minha Página do GitHub!
-
+# Bem-vindo(a)
 Olá! Sou [Renata Carvalho](https://github.com/Renata-rcs), estudante e apaixonado(a) por programação.
 
 ## Sobre Mim
