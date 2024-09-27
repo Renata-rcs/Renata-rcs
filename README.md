@@ -12,12 +12,12 @@ Olá! Sou [Renata Carvalho](https://github.com/Renata-rcs), estudante de Anális
 
 Estou trabalhando com uma variedade de tecnologias e ferramentas, incluindo:
 
-- **HTML5**: Criação de estruturas web modernas e acessíveis.
-- **CSS3**: Estilização de interfaces com design responsivo e adaptativo.
-- **JavaScript**: Desenvolvimento de funcionalidades interativas e dinâmicas.
-- **React.js**: Construção de interfaces de usuário complexas e reativas com componentes reutilizáveis.
-- **SQL**: Manipulação e gerenciamento de bancos de dados relacionais para armazenamento e recuperação eficiente de dados.
-- **Backend Básico**: Conhecimentos em desenvolvimento de servidores e APIs, utilizando ferramentas e linguagens para criar e gerenciar a lógica de negócios e a comunicação com bancos de dados.
+- **HTML5** ![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png)
+- **CSS3** ![CSS3 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png)
+- **JavaScript** ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JavaScript-logo.png/640px-JavaScript-logo.png)
+- **React.js** ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png)
+- **SQL** ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SQL.svg/640px-SQL.svg.png)
+- **Backend Básico** ![Backend Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Node.js_logo_2015.svg/640px-Node.js_logo_2015.svg.png)
 
 ## Contato
 
