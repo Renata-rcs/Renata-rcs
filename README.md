@@ -10,14 +10,14 @@ Olá! Sou [Renata Carvalho](https://github.com/Renata-rcs), estudante de Anális
 
 ## Tecnologias
 
-Estou trabalhando com uma variedade de tecnologias e ferramentas, incluindo:
-
-- **HTML5** <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Logo" width="30" />
-- **CSS3** <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo" width="30" />
-- **JavaScript** <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" width="30" />
-- **React.js** <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo" width="30" />
-- **SQL** <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo" width="30" />
-- **Node.js** <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo" width="30" />
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/sql.png" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30" />
+</div>
 
 ## Contato
 
