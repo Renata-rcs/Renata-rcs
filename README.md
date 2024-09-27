@@ -12,12 +12,12 @@ Olá! Sou [Renata Carvalho](https://github.com/Renata-rcs), estudante de Anális
 
 Estou trabalhando com uma variedade de tecnologias e ferramentas, incluindo:
 
-- **HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="50" />
-- **CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 Logo" width="50" />
-- **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JavaScript-logo.png/640px-JavaScript-logo.png" alt="JavaScript Logo" width="50" />
-- **React.js** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="React Logo" width="50" />
-- **SQL** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SQL.svg/640px-SQL.svg.png" alt="SQL Logo" width="50" />
-- **Node.js** <img src="https://nodejs.org/static/images/logo-light.svg" alt="Node.js Logo" width="50" />
+- **HTML5** <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 Logo" width="30" />
+- **CSS3** <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Logo" width="30" />
+- **JavaScript** <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo" width="30" />
+- **React.js** <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo" width="30" />
+- **SQL** <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo" width="30" />
+- **Node.js** <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Logo" width="30" />
 
 ## Contato
 
