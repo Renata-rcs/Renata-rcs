@@ -23,4 +23,4 @@ Olá! Sou [Renata Carvalho](https://github.com/Renata-rcs), estudante de Anális
 
 - 📧 E-mail: [renataa.rcs@gmail.com](mailto:renataa_cs@icloud.com)
 - 💼 LinkedIn: [Renata Carvalho](https://www.linkedin.com/in/renata-carvalho-02a718273)
-- 🌐 Portfólio: [Portfólio](https://renata-rcs.github.io/Portifolio/)
+- 🌐 Portfólio: [Portfólio](https://renata-rcs.github.io/Portfolio/)
